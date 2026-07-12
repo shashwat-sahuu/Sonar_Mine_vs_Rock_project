@@ -1,1 +1,0 @@
-print("heelooo amp project")
